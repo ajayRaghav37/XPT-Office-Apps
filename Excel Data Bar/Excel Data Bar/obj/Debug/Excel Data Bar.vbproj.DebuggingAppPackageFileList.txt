@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Excel Data BarManifest.xml
+D:\Corporate\ANIco.in\Office Apps\Excel Data Bar\Excel Data Bar\bin\Debug\Excel Data Bar.debugapp

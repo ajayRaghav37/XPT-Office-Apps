@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="Excel Data Bar"
+     ProductID="{895399e4-9579-4b6a-8621-cabac1fc62ba}"
+     Version="1.0.0.0"
+     SharePointMinVersion="15.0.0.0"
+>
+  <Properties>
+    <Title>Excel Data Bar</Title>
+    <StartPage>http://go.microsoft.com/fwlink/?LinkID=278993</StartPage>
+  </Properties>
+
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>
